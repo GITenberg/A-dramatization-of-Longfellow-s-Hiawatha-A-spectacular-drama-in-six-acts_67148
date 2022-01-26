@@ -1,5 +1,8 @@
 _repo: A-dramatization-of-Longfellow-s-Hiawatha-A-spectacular-drama-in-six-acts_67148
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67148-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Longfellow, Henry Wadsworth
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '54130'
     url: http://www.gutenberg.org/2009/agents/54130
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67148#A-dramatization-of-Longfellow-s-Hiawatha-A-spectacular-drama-in-six-acts
 gutenberg_issued: '2022-01-12'
 identifiers:
   gutenberg: '67148'
